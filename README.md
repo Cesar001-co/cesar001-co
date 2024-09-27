@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working on my final degree project<br>🌱 I’m currently learning Angular for web sites
+🔭 I'm currently looking for job oportunities
+<br>
+🌱 I’m currently doing a fullstack bootcamp
 
 
 ## 🌐 Socials:
