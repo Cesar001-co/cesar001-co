@@ -1,7 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently looking for job oportunities
+🔭 working for Kapulus International
 <br>
-🌱 I’m currently doing a fullstack bootcamp
 
 
 ## 🌐 Socials:
